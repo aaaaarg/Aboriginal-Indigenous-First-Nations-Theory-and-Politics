@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">138</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0e6fa35f-d54c-400a-b850-3a895793dd8a</dc:identifier>
+        <dc:title>An Indigenous Peoples' History of the United States (ReVisioning American History)</dc:title>
+        <dc:creator opf:file-as="Dunbar-Ortiz, Roxanne" opf:role="aut">Roxanne Dunbar-Ortiz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-08-10T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;**2015 Recipient of the American Book Award  &lt;/p&gt;
+&lt;p&gt;The first history of the United States told from the perspective of indigenous peoples&lt;strong&gt;&lt;br&gt;
+&lt;br&gt;
+Today in the United States, there are more than five hundred federally recognized Indigenous nations comprising nearly three million people, descendants of the fifteen million Native people who once inhabited this land. The centuries-long genocidal program of the US settler-colonial regimen has largely been omitted from history. Now, for the first time, acclaimed historian and activist Roxanne Dunbar-Ortiz&lt;/strong&gt; offers a history of the United States told from the perspective of Indigenous peoples and reveals **how Native Americans, for centuries, actively resisted expansion of the US empire.  &lt;/p&gt;
+&lt;p&gt;In &lt;em&gt;An Indigenous Peoples’ History of the United States&lt;/em&gt;, Dunbar-Ortiz adroitly challenges the founding myth of the United States and shows how policy against the Indigenous peoples was colonialist and designed to seize the territories of the original inhabitants, displacing or eliminating them. And as Dunbar-Ortiz reveals, this policy was praised in popular culture, through writers like James Fenimore Cooper and Walt Whitman, and in the highest offices of government and the military. Shockingly, as the genocidal policy reached its zenith under President Andrew Jackson, its ruthlessness was best articulated by US Army general Thomas S. Jesup, who, in 1836, wrote of the Seminoles: “The country can be rid of them only by exterminating them.” &lt;br&gt;
+&lt;br&gt;
+Spanning more than four hundred years, this classic bottom-up peoples’ history radically reframes US history and explodes the silences that have haunted our national narrative.  &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;From the Hardcover edition.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Beacon Press</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0807057835</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780807057834</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Roxanne Dunbar-Ortiz&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="10" name="calibre:rating"/>
+        <meta content="2015-12-27T15:35:59+00:00" name="calibre:timestamp"/>
+        <meta content="Indigenous Peoples' History of the United States (ReVisioning American History), An" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
