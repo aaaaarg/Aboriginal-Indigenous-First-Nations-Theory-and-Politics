@@ -2,14 +2,14 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">2</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">400f091d-0c1c-4d2a-8673-d875d004db9d</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">791e7faf-0532-424a-9ba6-d910e6e44d19</dc:identifier>
         <dc:title>Beyond Geography: The Western Spirit Against the Wilderness</dc:title>
         <dc:creator opf:file-as="Turner, Frederick" opf:role="aut">Frederick Turner</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
         <meta content="{&quot;Frederick Turner&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2015-12-27T14:14:50.266490+00:00" name="calibre:timestamp"/>
+        <meta content="2015-12-27T15:28:14.813762+00:00" name="calibre:timestamp"/>
         <meta content="Beyond Geography: The Western Spirit Against the Wilderness" name="calibre:title_sort"/>
     </metadata>
     <guide>

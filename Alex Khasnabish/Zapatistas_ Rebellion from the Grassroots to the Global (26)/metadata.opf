@@ -2,14 +2,14 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">26</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">b5a8d196-04f8-45ff-b485-cc67faa9eb29</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">21370600-80c7-4551-9a5c-29a4138e2ce4</dc:identifier>
         <dc:title>Zapatistas: Rebellion from the Grassroots to the Global</dc:title>
         <dc:creator opf:file-as="Khasnabish, Alex" opf:role="aut">Alex Khasnabish</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
         <meta content="{&quot;Alex Khasnabish&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2015-12-27T14:16:13.012233+00:00" name="calibre:timestamp"/>
+        <meta content="2015-12-27T15:29:37.227218+00:00" name="calibre:timestamp"/>
         <meta content="Zapatistas: Rebellion from the Grassroots to the Global" name="calibre:title_sort"/>
     </metadata>
     <guide>

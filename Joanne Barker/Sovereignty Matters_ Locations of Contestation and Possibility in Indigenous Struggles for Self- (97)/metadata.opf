@@ -2,7 +2,7 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">97</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">3a7c5820-8197-43da-80c2-7021595cee8f</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a327e197-242e-4e1a-b1c7-8afba9dfe512</dc:identifier>
         <dc:title>Sovereignty Matters: Locations of Contestation and Possibility in Indigenous Struggles for Self-Determination</dc:title>
         <dc:creator opf:file-as="Barker, Joanne &amp; Alfred, Taiaiake &amp; Santana, Déborah Berman &amp; Pihama, Leonie &amp; Perez, Michael P. &amp; Ontai, Kilipaka Kawaihonu Nahili Pae &amp; Miller, Robert J. &amp; McMullin, Dan Taulapapa &amp; Kauanui, J. Kehaulani &amp; Delgado-P., Guillermo &amp; Childs, John Brown &amp; Cram, Fiona" opf:role="aut">Joanne Barker</dc:creator>
         <dc:creator opf:file-as="Barker, Joanne &amp; Alfred, Taiaiake &amp; Santana, Déborah Berman &amp; Pihama, Leonie &amp; Perez, Michael P. &amp; Ontai, Kilipaka Kawaihonu Nahili Pae &amp; Miller, Robert J. &amp; McMullin, Dan Taulapapa &amp; Kauanui, J. Kehaulani &amp; Delgado-P., Guillermo &amp; Childs, John Brown &amp; Cram, Fiona" opf:role="aut">Taiaiake Alfred</dc:creator>
@@ -19,8 +19,8 @@
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
-        <meta content="{&quot;Kilipaka Kawaihonu Nahili Pae Ontai&quot;: &quot;&quot;, &quot;J. Kehaulani Kauanui&quot;: &quot;&quot;, &quot;Joanne Barker&quot;: &quot;&quot;, &quot;Robert J. Miller&quot;: &quot;&quot;, &quot;Fiona Cram&quot;: &quot;&quot;, &quot;Michael P. Perez&quot;: &quot;&quot;, &quot;Déborah Berman Santana&quot;: &quot;&quot;, &quot;John Brown Childs&quot;: &quot;&quot;, &quot;Dan Taulapapa McMullin&quot;: &quot;&quot;, &quot;Guillermo Delgado-P.&quot;: &quot;&quot;, &quot;Taiaiake Alfred&quot;: &quot;&quot;, &quot;Leonie Pihama&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2015-12-27T14:20:18.541105+00:00" name="calibre:timestamp"/>
+        <meta content="{&quot;Michael P. Perez&quot;: &quot;&quot;, &quot;Taiaiake Alfred&quot;: &quot;&quot;, &quot;Déborah Berman Santana&quot;: &quot;&quot;, &quot;Joanne Barker&quot;: &quot;&quot;, &quot;J. Kehaulani Kauanui&quot;: &quot;&quot;, &quot;Kilipaka Kawaihonu Nahili Pae Ontai&quot;: &quot;&quot;, &quot;Dan Taulapapa McMullin&quot;: &quot;&quot;, &quot;Fiona Cram&quot;: &quot;&quot;, &quot;Leonie Pihama&quot;: &quot;&quot;, &quot;Guillermo Delgado-P.&quot;: &quot;&quot;, &quot;Robert J. Miller&quot;: &quot;&quot;, &quot;John Brown Childs&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-12-27T15:33:39.676177+00:00" name="calibre:timestamp"/>
         <meta content="Sovereignty Matters: Locations of Contestation and Possibility in Indigenous Struggles for Self-Determination" name="calibre:title_sort"/>
     </metadata>
     <guide>

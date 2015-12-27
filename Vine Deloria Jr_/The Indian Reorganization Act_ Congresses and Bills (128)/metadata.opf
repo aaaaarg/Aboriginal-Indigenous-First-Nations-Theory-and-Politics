@@ -2,14 +2,14 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">128</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">4ef9a77f-bcc5-49b4-9764-162d95e46788</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3d2faea2-b033-4269-b7a3-55c33fa30b6d</dc:identifier>
         <dc:title>The Indian Reorganization Act: Congresses and Bills</dc:title>
         <dc:creator opf:file-as="Deloria, Vine Jr." opf:role="aut">Vine Deloria Jr.</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
         <meta content="{&quot;Vine Deloria Jr.&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2015-12-27T14:22:05.695122+00:00" name="calibre:timestamp"/>
+        <meta content="2015-12-27T15:35:24.782698+00:00" name="calibre:timestamp"/>
         <meta content="Indian Reorganization Act: Congresses and Bills, The" name="calibre:title_sort"/>
     </metadata>
     <guide>

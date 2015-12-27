@@ -2,7 +2,7 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">101</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">3a969c5e-2aa2-4d71-86c3-a390ae587f07</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">725d46d1-a7c7-448f-a810-261cfd2e3f53</dc:identifier>
         <dc:title>The Shoshoneans: The People of the Basin-Plateau</dc:title>
         <dc:creator opf:file-as="Dorn, Edward &amp; Lucas, Leroy &amp; Warrior, Clyde &amp; Ortiz, Simon J. &amp; Hofer, Matthew" opf:role="aut">Edward Dorn</dc:creator>
         <dc:creator opf:file-as="Dorn, Edward &amp; Lucas, Leroy &amp; Warrior, Clyde &amp; Ortiz, Simon J. &amp; Hofer, Matthew" opf:role="aut">Leroy Lucas</dc:creator>
@@ -12,8 +12,8 @@
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
-        <meta content="{&quot;Edward Dorn&quot;: &quot;&quot;, &quot;Leroy Lucas&quot;: &quot;&quot;, &quot;Matthew Hofer&quot;: &quot;&quot;, &quot;Clyde Warrior&quot;: &quot;&quot;, &quot;Simon J. Ortiz&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2015-12-27T14:20:32.250067+00:00" name="calibre:timestamp"/>
+        <meta content="{&quot;Leroy Lucas&quot;: &quot;&quot;, &quot;Edward Dorn&quot;: &quot;&quot;, &quot;Simon J. Ortiz&quot;: &quot;&quot;, &quot;Matthew Hofer&quot;: &quot;&quot;, &quot;Clyde Warrior&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-12-27T15:33:53.204190+00:00" name="calibre:timestamp"/>
         <meta content="Shoshoneans: The People of the Basin-Plateau, The" name="calibre:title_sort"/>
     </metadata>
     <guide>

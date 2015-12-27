@@ -2,7 +2,7 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">122</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">b9644608-4a7f-4662-a35c-1da350953af8</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">80a927f9-7454-457d-9b24-ae39766dad21</dc:identifier>
         <dc:title>Hawaiian Blood: Colonialism and the Politics of Sovereignty and Indigeneity</dc:title>
         <dc:creator opf:file-as="Kauanui, J. Kēhaulani &amp; Kauanui, J. Kehaulani" opf:role="aut">J. Kēhaulani Kauanui</dc:creator>
         <dc:creator opf:file-as="Kauanui, J. Kēhaulani &amp; Kauanui, J. Kehaulani" opf:role="aut">J. Kehaulani Kauanui</dc:creator>
@@ -10,7 +10,7 @@
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
         <meta content="{&quot;J. Kehaulani Kauanui&quot;: &quot;&quot;, &quot;J. Kēhaulani Kauanui&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2015-12-27T14:21:44.820096+00:00" name="calibre:timestamp"/>
+        <meta content="2015-12-27T15:35:04.506496+00:00" name="calibre:timestamp"/>
         <meta content="Hawaiian Blood: Colonialism and the Politics of Sovereignty and Indigeneity" name="calibre:title_sort"/>
     </metadata>
     <guide>

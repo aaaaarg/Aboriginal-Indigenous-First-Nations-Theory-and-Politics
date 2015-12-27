@@ -2,7 +2,7 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">93</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">8364a8b6-3075-44e5-898c-f05d1003a890</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">06f0e97f-578b-49b4-bf02-14309658e46b</dc:identifier>
         <dc:title>Marxism and Native Americans</dc:title>
         <dc:creator opf:file-as="Churchill, Ward &amp; LaDuke, Winona &amp; Means, Russell &amp; Party, Revolutionary Communist &amp; Larson, Dora-Lee &amp; Lloyd, Elisabeth &amp; Sipe, Robert B. &amp; Deloria, Vine Jr. &amp; Elk, Frank Black &amp; Tabb, William &amp; Heiple, Phil" opf:role="aut">Ward Churchill</dc:creator>
         <dc:creator opf:file-as="Churchill, Ward &amp; LaDuke, Winona &amp; Means, Russell &amp; Party, Revolutionary Communist &amp; Larson, Dora-Lee &amp; Lloyd, Elisabeth &amp; Sipe, Robert B. &amp; Deloria, Vine Jr. &amp; Elk, Frank Black &amp; Tabb, William &amp; Heiple, Phil" opf:role="aut">Winona LaDuke</dc:creator>
@@ -18,8 +18,8 @@
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
-        <meta content="{&quot;Russell Means&quot;: &quot;&quot;, &quot;Frank Black Elk&quot;: &quot;&quot;, &quot;Dora-Lee Larson&quot;: &quot;&quot;, &quot;Robert B. Sipe&quot;: &quot;&quot;, &quot;Elisabeth Lloyd&quot;: &quot;&quot;, &quot;Winona LaDuke&quot;: &quot;&quot;, &quot;Phil Heiple&quot;: &quot;&quot;, &quot;Revolutionary Communist Party&quot;: &quot;&quot;, &quot;William Tabb&quot;: &quot;&quot;, &quot;Ward Churchill&quot;: &quot;&quot;, &quot;Vine Deloria Jr.&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2015-12-27T14:20:04.710948+00:00" name="calibre:timestamp"/>
+        <meta content="{&quot;Frank Black Elk&quot;: &quot;&quot;, &quot;Dora-Lee Larson&quot;: &quot;&quot;, &quot;Elisabeth Lloyd&quot;: &quot;&quot;, &quot;Robert B. Sipe&quot;: &quot;&quot;, &quot;Russell Means&quot;: &quot;&quot;, &quot;Vine Deloria Jr.&quot;: &quot;&quot;, &quot;Revolutionary Communist Party&quot;: &quot;&quot;, &quot;Ward Churchill&quot;: &quot;&quot;, &quot;Winona LaDuke&quot;: &quot;&quot;, &quot;Phil Heiple&quot;: &quot;&quot;, &quot;William Tabb&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-12-27T15:33:26.152862+00:00" name="calibre:timestamp"/>
         <meta content="Marxism and Native Americans" name="calibre:title_sort"/>
     </metadata>
     <guide>

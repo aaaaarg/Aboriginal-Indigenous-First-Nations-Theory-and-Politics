@@ -2,14 +2,14 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">90</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">ce07bfd2-2ac4-4bc2-91f0-836e7508195b</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9e3667a5-10b8-4801-a296-367a49e4045c</dc:identifier>
         <dc:title>Struggle for the Land: Native North American Resistance to Genocide, Ecocide and Colonization</dc:title>
         <dc:creator opf:file-as="Churchill, Ward" opf:role="aut">Ward Churchill</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
         <meta content="{&quot;Ward Churchill&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2015-12-27T14:19:54.543373+00:00" name="calibre:timestamp"/>
+        <meta content="2015-12-27T15:33:16.049257+00:00" name="calibre:timestamp"/>
         <meta content="Struggle for the Land: Native North American Resistance to Genocide, Ecocide and Colonization" name="calibre:title_sort"/>
     </metadata>
     <guide>

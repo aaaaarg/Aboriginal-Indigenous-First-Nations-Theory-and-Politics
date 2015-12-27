@@ -2,15 +2,15 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">12</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">e937d34f-2075-48e2-91f1-a785920f7967</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0f7e68c9-074d-4f82-b9ce-0976940a796f</dc:identifier>
         <dc:title>Cannibalist Manifesto</dc:title>
         <dc:creator opf:file-as="Andrade, Oswald de &amp; Bary, Leslie" opf:role="aut">Oswald de Andrade</dc:creator>
         <dc:creator opf:file-as="Andrade, Oswald de &amp; Bary, Leslie" opf:role="aut">Leslie Bary</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
-        <meta content="{&quot;Leslie Bary&quot;: &quot;&quot;, &quot;Oswald de Andrade&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2015-12-27T14:15:24.726509+00:00" name="calibre:timestamp"/>
+        <meta content="{&quot;Oswald de Andrade&quot;: &quot;&quot;, &quot;Leslie Bary&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-12-27T15:28:48.808650+00:00" name="calibre:timestamp"/>
         <meta content="Cannibalist Manifesto" name="calibre:title_sort"/>
     </metadata>
     <guide>

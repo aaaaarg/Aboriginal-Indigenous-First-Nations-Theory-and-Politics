@@ -2,14 +2,14 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">92</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">1abd2d28-fd92-452e-b6f0-d45691d5b5ce</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">864fd51c-b885-4874-9c9a-2c9602514006</dc:identifier>
         <dc:title>God Is Red: A Native View of Religion</dc:title>
         <dc:creator opf:file-as="Deloria, Vine Jr." opf:role="aut">Vine Deloria Jr.</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
         <meta content="{&quot;Vine Deloria Jr.&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2015-12-27T14:20:01.293971+00:00" name="calibre:timestamp"/>
+        <meta content="2015-12-27T15:33:22.789138+00:00" name="calibre:timestamp"/>
         <meta content="God Is Red: A Native View of Religion" name="calibre:title_sort"/>
     </metadata>
     <guide>

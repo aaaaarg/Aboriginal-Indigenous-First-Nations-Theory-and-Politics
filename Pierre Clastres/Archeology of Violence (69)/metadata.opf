@@ -2,14 +2,14 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">69</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">2f7a46e0-b840-4e6e-bc77-cdf413051308</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">535cd696-db74-4397-aafc-ed90268c2fb3</dc:identifier>
         <dc:title>Archeology of Violence</dc:title>
         <dc:creator opf:file-as="Clastres, Pierre" opf:role="aut">Pierre Clastres</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
         <meta content="{&quot;Pierre Clastres&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2015-12-27T14:18:41.643514+00:00" name="calibre:timestamp"/>
+        <meta content="2015-12-27T15:32:03.471092+00:00" name="calibre:timestamp"/>
         <meta content="Archeology of Violence" name="calibre:title_sort"/>
     </metadata>
     <guide>

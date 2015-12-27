@@ -2,14 +2,14 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">28</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">33d4ae0d-9ff9-48d3-bbb8-f9cfdcb48350</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6835d9bd-a416-4a68-ac5c-6553739d77e0</dc:identifier>
         <dc:title>George Lipsitz Essay Collection</dc:title>
         <dc:creator opf:file-as="Lipsitz, George" opf:role="aut">George Lipsitz</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
         <meta content="{&quot;George Lipsitz&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2015-12-27T14:16:19.939975+00:00" name="calibre:timestamp"/>
+        <meta content="2015-12-27T15:29:43.960444+00:00" name="calibre:timestamp"/>
         <meta content="George Lipsitz Essay Collection" name="calibre:title_sort"/>
     </metadata>
     <guide>

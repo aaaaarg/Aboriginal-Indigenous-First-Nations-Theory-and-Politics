@@ -2,7 +2,7 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">130</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">0ed4d5e9-17d2-4a7f-af85-c730fc88b89d</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a8639860-fe4a-4973-b2fa-47a1e2b220ff</dc:identifier>
         <dc:title>A Seat at the Table: Huston Smith In Conversation with Native Americans on Religious Freedom</dc:title>
         <dc:creator opf:file-as="Cousineau, Phil &amp; Smith, Huston &amp; Deloria, Vine Jr. &amp; Echo-Hawk, Walter &amp; LaDuke, Winona &amp; Elk, Charlotte Black &amp; George-Kanentiio, Douglas &amp; Dayish, Frank Jr. &amp; Foster, Lenny &amp; Frichner, Tonya Gonnella &amp; Lopez, Anthony Guy &amp; Lyons, Oren" opf:role="aut">Phil Cousineau</dc:creator>
         <dc:creator opf:file-as="Cousineau, Phil &amp; Smith, Huston &amp; Deloria, Vine Jr. &amp; Echo-Hawk, Walter &amp; LaDuke, Winona &amp; Elk, Charlotte Black &amp; George-Kanentiio, Douglas &amp; Dayish, Frank Jr. &amp; Foster, Lenny &amp; Frichner, Tonya Gonnella &amp; Lopez, Anthony Guy &amp; Lyons, Oren" opf:role="aut">Huston Smith</dc:creator>
@@ -19,8 +19,8 @@
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
-        <meta content="{&quot;Huston Smith&quot;: &quot;&quot;, &quot;Lenny Foster&quot;: &quot;&quot;, &quot;Frank Dayish Jr.&quot;: &quot;&quot;, &quot;Walter Echo-Hawk&quot;: &quot;&quot;, &quot;Winona LaDuke&quot;: &quot;&quot;, &quot;Phil Cousineau&quot;: &quot;&quot;, &quot;Tonya Gonnella Frichner&quot;: &quot;&quot;, &quot;Anthony Guy Lopez&quot;: &quot;&quot;, &quot;Charlotte Black Elk&quot;: &quot;&quot;, &quot;Vine Deloria Jr.&quot;: &quot;&quot;, &quot;Douglas George-Kanentiio&quot;: &quot;&quot;, &quot;Oren Lyons&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2015-12-27T14:22:12.595075+00:00" name="calibre:timestamp"/>
+        <meta content="{&quot;Lenny Foster&quot;: &quot;&quot;, &quot;Walter Echo-Hawk&quot;: &quot;&quot;, &quot;Phil Cousineau&quot;: &quot;&quot;, &quot;Charlotte Black Elk&quot;: &quot;&quot;, &quot;Tonya Gonnella Frichner&quot;: &quot;&quot;, &quot;Winona LaDuke&quot;: &quot;&quot;, &quot;Oren Lyons&quot;: &quot;&quot;, &quot;Huston Smith&quot;: &quot;&quot;, &quot;Vine Deloria Jr.&quot;: &quot;&quot;, &quot;Douglas George-Kanentiio&quot;: &quot;&quot;, &quot;Frank Dayish Jr.&quot;: &quot;&quot;, &quot;Anthony Guy Lopez&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-12-27T15:35:31.566420+00:00" name="calibre:timestamp"/>
         <meta content="Seat at the Table: Huston Smith In Conversation with Native Americans on Religious Freedom, A" name="calibre:title_sort"/>
     </metadata>
     <guide>

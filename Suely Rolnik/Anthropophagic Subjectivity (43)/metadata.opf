@@ -2,14 +2,14 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">43</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">2d841200-b818-4616-8624-826da755819e</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">088f7037-d051-46b4-ad4b-0be91bfeccff</dc:identifier>
         <dc:title>Anthropophagic Subjectivity</dc:title>
         <dc:creator opf:file-as="Rolnik, Suely" opf:role="aut">Suely Rolnik</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
         <meta content="{&quot;Suely Rolnik&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2015-12-27T14:17:12.349433+00:00" name="calibre:timestamp"/>
+        <meta content="2015-12-27T15:30:34.828745+00:00" name="calibre:timestamp"/>
         <meta content="Anthropophagic Subjectivity" name="calibre:title_sort"/>
     </metadata>
     <guide>

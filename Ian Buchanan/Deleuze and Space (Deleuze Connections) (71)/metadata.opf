@@ -2,7 +2,7 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">71</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">99fdb2b1-9215-4011-b10d-d80e7b6f006c</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2f4b344a-1b9b-4f0d-8afe-494b023f5882</dc:identifier>
         <dc:title>Deleuze and Space (Deleuze Connections)</dc:title>
         <dc:creator opf:file-as="Buchanan, Ian &amp; Lambert, Gregg &amp; Harris, Paul A. &amp; Frichot, Helene &amp; DeLanda, Manuel &amp; Dewsbury, J. D. &amp; Thrift, Nigel &amp; Genosko, Gary &amp; Bryx, Adam &amp; Arsic, Branka &amp; Bensmaia, Reda &amp; Lorraine, Tamsin &amp; Flaxman, Gregory &amp; Colebrook, Claire &amp; Conley, Tom" opf:role="aut">Ian Buchanan</dc:creator>
         <dc:creator opf:file-as="Buchanan, Ian &amp; Lambert, Gregg &amp; Harris, Paul A. &amp; Frichot, Helene &amp; DeLanda, Manuel &amp; Dewsbury, J. D. &amp; Thrift, Nigel &amp; Genosko, Gary &amp; Bryx, Adam &amp; Arsic, Branka &amp; Bensmaia, Reda &amp; Lorraine, Tamsin &amp; Flaxman, Gregory &amp; Colebrook, Claire &amp; Conley, Tom" opf:role="aut">Gregg Lambert</dc:creator>
@@ -22,8 +22,8 @@
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
-        <meta content="{&quot;Claire Colebrook&quot;: &quot;&quot;, &quot;Gary Genosko&quot;: &quot;&quot;, &quot;Ian Buchanan&quot;: &quot;&quot;, &quot;Manuel DeLanda&quot;: &quot;&quot;, &quot;Tom Conley&quot;: &quot;&quot;, &quot;Adam Bryx&quot;: &quot;&quot;, &quot;Paul A. Harris&quot;: &quot;&quot;, &quot;Nigel Thrift&quot;: &quot;&quot;, &quot;Gregory Flaxman&quot;: &quot;&quot;, &quot;Reda Bensmaia&quot;: &quot;&quot;, &quot;Branka Arsic&quot;: &quot;&quot;, &quot;Helene Frichot&quot;: &quot;&quot;, &quot;J. D. Dewsbury&quot;: &quot;&quot;, &quot;Gregg Lambert&quot;: &quot;&quot;, &quot;Tamsin Lorraine&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2015-12-27T14:18:48.534540+00:00" name="calibre:timestamp"/>
+        <meta content="{&quot;Gregg Lambert&quot;: &quot;&quot;, &quot;J. D. Dewsbury&quot;: &quot;&quot;, &quot;Ian Buchanan&quot;: &quot;&quot;, &quot;Manuel DeLanda&quot;: &quot;&quot;, &quot;Tom Conley&quot;: &quot;&quot;, &quot;Branka Arsic&quot;: &quot;&quot;, &quot;Paul A. Harris&quot;: &quot;&quot;, &quot;Reda Bensmaia&quot;: &quot;&quot;, &quot;Helene Frichot&quot;: &quot;&quot;, &quot;Gregory Flaxman&quot;: &quot;&quot;, &quot;Claire Colebrook&quot;: &quot;&quot;, &quot;Gary Genosko&quot;: &quot;&quot;, &quot;Nigel Thrift&quot;: &quot;&quot;, &quot;Adam Bryx&quot;: &quot;&quot;, &quot;Tamsin Lorraine&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-12-27T15:32:10.220739+00:00" name="calibre:timestamp"/>
         <meta content="Deleuze and Space (Deleuze Connections)" name="calibre:title_sort"/>
     </metadata>
     <guide>

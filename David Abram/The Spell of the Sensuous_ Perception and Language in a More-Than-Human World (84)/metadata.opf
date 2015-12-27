@@ -2,14 +2,14 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">84</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">8e38bf55-ef26-4cd2-95ad-b6588fb3e02d</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e176e163-36b9-43b9-a0ef-24376821b346</dc:identifier>
         <dc:title>The Spell of the Sensuous: Perception and Language in a More-Than-Human World</dc:title>
         <dc:creator opf:file-as="Abram, David" opf:role="aut">David Abram</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
         <meta content="{&quot;David Abram&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2015-12-27T14:19:33.730775+00:00" name="calibre:timestamp"/>
+        <meta content="2015-12-27T15:32:54.881715+00:00" name="calibre:timestamp"/>
         <meta content="Spell of the Sensuous: Perception and Language in a More-Than-Human World, The" name="calibre:title_sort"/>
     </metadata>
     <guide>

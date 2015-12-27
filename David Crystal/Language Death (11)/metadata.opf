@@ -2,14 +2,14 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">11</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">4e4fcca0-6ef7-400f-803a-cfdcbd352b1a</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">400097ff-8229-4810-9b5d-2fdf86a3f226</dc:identifier>
         <dc:title>Language Death</dc:title>
         <dc:creator opf:file-as="Crystal, David" opf:role="aut">David Crystal</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
         <meta content="{&quot;David Crystal&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2015-12-27T14:15:21.341972+00:00" name="calibre:timestamp"/>
+        <meta content="2015-12-27T15:28:45.445938+00:00" name="calibre:timestamp"/>
         <meta content="Language Death" name="calibre:title_sort"/>
     </metadata>
     <guide>

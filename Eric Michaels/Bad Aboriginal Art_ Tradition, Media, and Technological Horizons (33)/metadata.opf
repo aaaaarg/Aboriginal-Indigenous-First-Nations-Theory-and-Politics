@@ -2,14 +2,14 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">33</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">6a4d83e0-69da-4528-b7f1-8b081e9cb75d</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e66d1342-4d9f-41ce-b580-20e27dc582b9</dc:identifier>
         <dc:title>Bad Aboriginal Art: Tradition, Media, and Technological Horizons</dc:title>
         <dc:creator opf:file-as="Michaels, Eric" opf:role="aut">Eric Michaels</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
         <meta content="{&quot;Eric Michaels&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2015-12-27T14:16:37.244718+00:00" name="calibre:timestamp"/>
+        <meta content="2015-12-27T15:30:01.052253+00:00" name="calibre:timestamp"/>
         <meta content="Bad Aboriginal Art: Tradition, Media, and Technological Horizons" name="calibre:title_sort"/>
     </metadata>
     <guide>

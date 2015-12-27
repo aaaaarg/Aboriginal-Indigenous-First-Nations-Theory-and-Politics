@@ -2,14 +2,14 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">100</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">060e0eb0-039f-4d5f-af8c-a1fbb8f7587a</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8ef58e5a-7c05-47fe-a8a2-29b001d345e1</dc:identifier>
         <dc:title>The Metaphysics of Modern Existence</dc:title>
         <dc:creator opf:file-as="Deloria, Vine Jr." opf:role="aut">Vine Deloria Jr.</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
         <meta content="{&quot;Vine Deloria Jr.&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2015-12-27T14:20:28.826863+00:00" name="calibre:timestamp"/>
+        <meta content="2015-12-27T15:33:49.805907+00:00" name="calibre:timestamp"/>
         <meta content="Metaphysics of Modern Existence, The" name="calibre:title_sort"/>
     </metadata>
     <guide>

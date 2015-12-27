@@ -2,15 +2,15 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">117</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">6d6e4f3d-ed31-4d59-8958-c333eefbe3dc</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d9498fc6-3fb7-4f9a-9ed6-ce8a47fa039b</dc:identifier>
         <dc:title>Fugitive indigeneity: Reclaiming the terrain of decolonial struggle through Indigenous art</dc:title>
         <dc:creator opf:file-as="Martineau, Jarrett &amp; Ritskes, Eric" opf:role="aut">Jarrett Martineau</dc:creator>
         <dc:creator opf:file-as="Martineau, Jarrett &amp; Ritskes, Eric" opf:role="aut">Eric Ritskes</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
-        <meta content="{&quot;Eric Ritskes&quot;: &quot;&quot;, &quot;Jarrett Martineau&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2015-12-27T14:21:27.666845+00:00" name="calibre:timestamp"/>
+        <meta content="{&quot;Jarrett Martineau&quot;: &quot;&quot;, &quot;Eric Ritskes&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-12-27T15:34:47.551209+00:00" name="calibre:timestamp"/>
         <meta content="Fugitive indigeneity: Reclaiming the terrain of decolonial struggle through Indigenous art" name="calibre:title_sort"/>
     </metadata>
     <guide>

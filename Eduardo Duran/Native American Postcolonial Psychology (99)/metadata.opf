@@ -2,7 +2,7 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">99</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">a6683cfe-c14e-46b3-9750-3d9c75c87d50</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">18dd4e4b-d167-48d6-9cba-18f27928db31</dc:identifier>
         <dc:title>Native American Postcolonial Psychology</dc:title>
         <dc:creator opf:file-as="Duran, Eduardo &amp; Duran, Bonnie" opf:role="aut">Eduardo Duran</dc:creator>
         <dc:creator opf:file-as="Duran, Eduardo &amp; Duran, Bonnie" opf:role="aut">Bonnie Duran</dc:creator>
@@ -10,7 +10,7 @@
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
         <meta content="{&quot;Eduardo Duran&quot;: &quot;&quot;, &quot;Bonnie Duran&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2015-12-27T14:20:25.396340+00:00" name="calibre:timestamp"/>
+        <meta content="2015-12-27T15:33:46.411398+00:00" name="calibre:timestamp"/>
         <meta content="Native American Postcolonial Psychology" name="calibre:title_sort"/>
     </metadata>
     <guide>

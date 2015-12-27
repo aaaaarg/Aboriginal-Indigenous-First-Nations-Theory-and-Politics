@@ -2,14 +2,14 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">24</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">08e60cfd-7e1f-4dc0-94b2-8a3f93f6d0f8</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d68c8801-0950-4330-b8f2-e4d371b4e15f</dc:identifier>
         <dc:title>Reworking Race: The Making of Hawaii's Interracial Labor Movement</dc:title>
         <dc:creator opf:file-as="Jung, Moon-Kie" opf:role="aut">Moon-Kie Jung</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
         <meta content="{&quot;Moon-Kie Jung&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2015-12-27T14:16:05.943868+00:00" name="calibre:timestamp"/>
+        <meta content="2015-12-27T15:29:30.427067+00:00" name="calibre:timestamp"/>
         <meta content="Reworking Race: The Making of Hawaii's Interracial Labor Movement" name="calibre:title_sort"/>
     </metadata>
     <guide>

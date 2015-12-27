@@ -2,7 +2,7 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">78</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">6cc6c88d-28cc-4914-bdb0-a29be5832ebe</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2fbea36e-4eba-4918-bf51-01a49c1dd25e</dc:identifier>
         <dc:title>Making Indonesia: Essays on Modern Indonesia in Honor of George McT. Kahin</dc:title>
         <dc:creator opf:file-as="Asia, Studies on Southeast &amp; Lev, Daniel S. &amp; McVey, Ruth &amp; Anderson, Benedict &amp; Mrazek, Rudolf &amp; Harvey, Barbara &amp; Heidhues, Mary Somers &amp; Robinson, Geoffrey &amp; Shimishi, Takashi &amp; Bunnell, Fred" opf:role="aut">Studies on Southeast Asia</dc:creator>
         <dc:creator opf:file-as="Asia, Studies on Southeast &amp; Lev, Daniel S. &amp; McVey, Ruth &amp; Anderson, Benedict &amp; Mrazek, Rudolf &amp; Harvey, Barbara &amp; Heidhues, Mary Somers &amp; Robinson, Geoffrey &amp; Shimishi, Takashi &amp; Bunnell, Fred" opf:role="aut">Daniel S. Lev</dc:creator>
@@ -17,8 +17,8 @@
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
-        <meta content="{&quot;Geoffrey Robinson&quot;: &quot;&quot;, &quot;Ruth McVey&quot;: &quot;&quot;, &quot;Barbara Harvey&quot;: &quot;&quot;, &quot;Benedict Anderson&quot;: &quot;&quot;, &quot;Daniel S. Lev&quot;: &quot;&quot;, &quot;Mary Somers Heidhues&quot;: &quot;&quot;, &quot;Fred Bunnell&quot;: &quot;&quot;, &quot;Studies on Southeast Asia&quot;: &quot;&quot;, &quot;Rudolf Mrazek&quot;: &quot;&quot;, &quot;Takashi Shimishi&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2015-12-27T14:19:12.711623+00:00" name="calibre:timestamp"/>
+        <meta content="{&quot;Takashi Shimishi&quot;: &quot;&quot;, &quot;Rudolf Mrazek&quot;: &quot;&quot;, &quot;Daniel S. Lev&quot;: &quot;&quot;, &quot;Fred Bunnell&quot;: &quot;&quot;, &quot;Geoffrey Robinson&quot;: &quot;&quot;, &quot;Benedict Anderson&quot;: &quot;&quot;, &quot;Barbara Harvey&quot;: &quot;&quot;, &quot;Studies on Southeast Asia&quot;: &quot;&quot;, &quot;Ruth McVey&quot;: &quot;&quot;, &quot;Mary Somers Heidhues&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-12-27T15:32:34.139539+00:00" name="calibre:timestamp"/>
         <meta content="Making Indonesia: Essays on Modern Indonesia in Honor of George McT. Kahin" name="calibre:title_sort"/>
     </metadata>
     <guide>

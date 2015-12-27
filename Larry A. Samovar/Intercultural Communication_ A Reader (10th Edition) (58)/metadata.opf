@@ -2,7 +2,7 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">58</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">30e2dcc4-eef4-401c-b6c8-09347cd37a1d</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c767973a-32e1-4615-8a5d-2788d082ec89</dc:identifier>
         <dc:title>Intercultural Communication: A Reader (10th Edition)</dc:title>
         <dc:creator opf:file-as="Samovar, Larry A. &amp; Porter, Richard E." opf:role="aut">Larry A. Samovar</dc:creator>
         <dc:creator opf:file-as="Samovar, Larry A. &amp; Porter, Richard E." opf:role="aut">Richard E. Porter</dc:creator>
@@ -10,7 +10,7 @@
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
         <meta content="{&quot;Richard E. Porter&quot;: &quot;&quot;, &quot;Larry A. Samovar&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2015-12-27T14:18:03.820262+00:00" name="calibre:timestamp"/>
+        <meta content="2015-12-27T15:31:25.847014+00:00" name="calibre:timestamp"/>
         <meta content="Intercultural Communication: A Reader (10th Edition)" name="calibre:title_sort"/>
     </metadata>
     <guide>

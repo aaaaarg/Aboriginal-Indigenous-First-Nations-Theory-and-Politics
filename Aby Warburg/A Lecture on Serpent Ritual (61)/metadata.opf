@@ -2,14 +2,14 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">61</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">091bf72a-f9d4-4efe-a8ee-430e6dc6ec07</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">17a9bd52-9efb-411e-bf97-fb6b9c1f6f81</dc:identifier>
         <dc:title>A Lecture on Serpent Ritual</dc:title>
         <dc:creator opf:file-as="Warburg, Aby" opf:role="aut">Aby Warburg</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
         <meta content="{&quot;Aby Warburg&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2015-12-27T14:18:14.212729+00:00" name="calibre:timestamp"/>
+        <meta content="2015-12-27T15:31:36.195484+00:00" name="calibre:timestamp"/>
         <meta content="Lecture on Serpent Ritual, A" name="calibre:title_sort"/>
     </metadata>
     <guide>

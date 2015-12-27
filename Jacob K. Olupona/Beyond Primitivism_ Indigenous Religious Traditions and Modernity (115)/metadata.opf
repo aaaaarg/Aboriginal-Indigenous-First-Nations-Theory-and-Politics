@@ -2,14 +2,14 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">115</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">6d38691c-0eb2-434d-b626-64542b30e430</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">77091446-126d-4129-b6cd-261bb8e7da6b</dc:identifier>
         <dc:title>Beyond Primitivism: Indigenous Religious Traditions and Modernity</dc:title>
         <dc:creator opf:file-as="Olupona, Jacob K." opf:role="aut">Jacob K. Olupona</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
         <meta content="{&quot;Jacob K. Olupona&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2015-12-27T14:21:20.712529+00:00" name="calibre:timestamp"/>
+        <meta content="2015-12-27T15:34:40.787275+00:00" name="calibre:timestamp"/>
         <meta content="Beyond Primitivism: Indigenous Religious Traditions and Modernity" name="calibre:title_sort"/>
     </metadata>
     <guide>

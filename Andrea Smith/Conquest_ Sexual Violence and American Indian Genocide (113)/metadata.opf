@@ -2,7 +2,7 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">113</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">86fcb840-a064-4b10-96cf-7da623573598</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5b4380f4-1583-4a20-92cf-b50bb97b1b18</dc:identifier>
         <dc:title>Conquest: Sexual Violence and American Indian Genocide</dc:title>
         <dc:creator opf:file-as="Smith, Andrea &amp; LaDuke, Winona" opf:role="aut">Andrea Smith</dc:creator>
         <dc:creator opf:file-as="Smith, Andrea &amp; LaDuke, Winona" opf:role="aut">Winona LaDuke</dc:creator>
@@ -10,7 +10,7 @@
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
         <meta content="{&quot;Andrea Smith&quot;: &quot;&quot;, &quot;Winona LaDuke&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2015-12-27T14:21:13.780312+00:00" name="calibre:timestamp"/>
+        <meta content="2015-12-27T15:34:34.062069+00:00" name="calibre:timestamp"/>
         <meta content="Conquest: Sexual Violence and American Indian Genocide" name="calibre:title_sort"/>
     </metadata>
     <guide>

@@ -1,8 +1,0 @@
-<package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="uuid_id" version="2.0" xmlns="http://www.idpf.org/2007/opf">
-  <metadata>
-    <dc:identifier id="uuid_id" opf:scheme="uuid">Unknown</dc:identifier>
-    <dc:title>Ojibwa Warrior: Dennis Banks and the Rise of the American Indian Movement</dc:title>
-    <dc:creator opf:file-as="Unknown" opf:role="aut">Dennis Banks </dc:creator>
-    <dc:creator opf:file-as="Unknown" opf:role="aut">Richard Erdoes </dc:creator>
-  </metadata>
-</package>

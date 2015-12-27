@@ -2,14 +2,14 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">15</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">130f4c23-86e0-4178-adba-aa5a520eaf8c</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">21af3c30-6352-42f0-b282-bacacb27dc21</dc:identifier>
         <dc:title>A Brief Account of the Destruction of the Indies</dc:title>
         <dc:creator opf:file-as="Casas, Bartolome de las" opf:role="aut">Bartolome de las Casas</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
         <meta content="{&quot;Bartolome de las Casas&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2015-12-27T14:15:34.944213+00:00" name="calibre:timestamp"/>
+        <meta content="2015-12-27T15:28:59.291016+00:00" name="calibre:timestamp"/>
         <meta content="Brief Account of the Destruction of the Indies, A" name="calibre:title_sort"/>
     </metadata>
     <guide>

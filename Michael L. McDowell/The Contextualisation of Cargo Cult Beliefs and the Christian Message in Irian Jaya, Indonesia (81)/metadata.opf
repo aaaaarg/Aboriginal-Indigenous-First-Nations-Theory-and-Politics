@@ -2,14 +2,14 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">81</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">fbf81840-8c32-49cd-abec-bc7c17d36bff</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">487c035c-ffe5-48d4-a3d6-b9933ffaff26</dc:identifier>
         <dc:title>The Contextualisation of Cargo Cult Beliefs and the Christian Message in Irian Jaya, Indonesia</dc:title>
         <dc:creator opf:file-as="McDowell, Michael L." opf:role="aut">Michael L. McDowell</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
         <meta content="{&quot;Michael L. McDowell&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2015-12-27T14:19:23.403299+00:00" name="calibre:timestamp"/>
+        <meta content="2015-12-27T15:32:44.459776+00:00" name="calibre:timestamp"/>
         <meta content="Contextualisation of Cargo Cult Beliefs and the Christian Message in Irian Jaya, Indonesia, The" name="calibre:title_sort"/>
     </metadata>
     <guide>

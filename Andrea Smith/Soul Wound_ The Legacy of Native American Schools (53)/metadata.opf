@@ -2,14 +2,14 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">53</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">0f1e069e-1d67-48db-9000-ca76e258b65e</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">de18e24e-fa12-4ed4-9fca-4422095d2a91</dc:identifier>
         <dc:title>Soul Wound: The Legacy of Native American Schools</dc:title>
         <dc:creator opf:file-as="Smith, Andrea" opf:role="aut">Andrea Smith</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
         <meta content="{&quot;Andrea Smith&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2015-12-27T14:17:46.622815+00:00" name="calibre:timestamp"/>
+        <meta content="2015-12-27T15:31:08.887035+00:00" name="calibre:timestamp"/>
         <meta content="Soul Wound: The Legacy of Native American Schools" name="calibre:title_sort"/>
     </metadata>
     <guide>

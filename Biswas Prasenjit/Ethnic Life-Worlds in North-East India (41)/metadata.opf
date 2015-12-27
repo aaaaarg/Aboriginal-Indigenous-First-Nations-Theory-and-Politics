@@ -2,7 +2,7 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">41</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">0e48905e-5186-49ad-ae15-5c53959dc360</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7c00d314-c026-4621-98e0-ab28a7b980a6</dc:identifier>
         <dc:title>Ethnic Life-Worlds in North-East India</dc:title>
         <dc:creator opf:file-as="Prasenjit, Biswas &amp; Chandan, Suklabaidya" opf:role="aut">Biswas Prasenjit</dc:creator>
         <dc:creator opf:file-as="Prasenjit, Biswas &amp; Chandan, Suklabaidya" opf:role="aut">Suklabaidya Chandan</dc:creator>
@@ -10,7 +10,7 @@
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
         <meta content="{&quot;Biswas Prasenjit&quot;: &quot;&quot;, &quot;Suklabaidya Chandan&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2015-12-27T14:17:05.456535+00:00" name="calibre:timestamp"/>
+        <meta content="2015-12-27T15:30:28.055331+00:00" name="calibre:timestamp"/>
         <meta content="Ethnic Life-Worlds in North-East India" name="calibre:title_sort"/>
     </metadata>
     <guide>

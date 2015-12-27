@@ -2,14 +2,14 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">74</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">ccf9f0c2-8214-446d-b0ff-36e713f6ac76</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cd0adf77-a1c2-4306-be7d-12fd0e516198</dc:identifier>
         <dc:title>The Surreptitious Speech: Presence Africaine and the Politics of Otherness</dc:title>
         <dc:creator opf:file-as="Mudimbe, Valentin Y." opf:role="aut">Valentin Y. Mudimbe</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
         <meta content="{&quot;Valentin Y. Mudimbe&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2015-12-27T14:18:58.991388+00:00" name="calibre:timestamp"/>
+        <meta content="2015-12-27T15:32:20.483548+00:00" name="calibre:timestamp"/>
         <meta content="Surreptitious Speech: Presence Africaine and the Politics of Otherness, The" name="calibre:title_sort"/>
     </metadata>
     <guide>

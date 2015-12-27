@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">135</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2fcbaa31-1f81-409e-8f39-cd581c33d6ae</dc:identifier>
+        <dc:title>Heeding the Voices of Our Ancestors: Kahnawake Mohawk Politics and the Rise of Native Nationalism</dc:title>
+        <dc:creator opf:file-as="Alfred, Gerald R. &amp; Alfred, Taiaiake" opf:role="aut">Gerald R. Alfred</dc:creator>
+        <dc:creator opf:file-as="Alfred, Gerald R. &amp; Alfred, Taiaiake" opf:role="aut">Taiaiake Alfred</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Taiaiake Alfred&quot;: &quot;&quot;, &quot;Gerald R. Alfred&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-12-27T15:35:49.197801+00:00" name="calibre:timestamp"/>
+        <meta content="Heeding the Voices of Our Ancestors: Kahnawake Mohawk Politics and the Rise of Native Nationalism" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

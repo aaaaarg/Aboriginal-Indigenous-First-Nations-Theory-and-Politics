@@ -2,7 +2,7 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">104</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">850a54bf-1810-4edd-af4d-b9d850884235</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3f7b202b-85cc-4786-80a1-fd8ed98ef650</dc:identifier>
         <dc:title>A Brief History of Anarchism in Bolivia</dc:title>
         <dc:creator opf:file-as="Cusicanqui, Silvia Rivera &amp; A., Zulema Lehm" opf:role="aut">Silvia Rivera Cusicanqui</dc:creator>
         <dc:creator opf:file-as="Cusicanqui, Silvia Rivera &amp; A., Zulema Lehm" opf:role="aut">Zulema Lehm A.</dc:creator>
@@ -10,7 +10,7 @@
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
         <meta content="{&quot;Zulema Lehm A.&quot;: &quot;&quot;, &quot;Silvia Rivera Cusicanqui&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2015-12-27T14:20:42.482785+00:00" name="calibre:timestamp"/>
+        <meta content="2015-12-27T15:34:03.321793+00:00" name="calibre:timestamp"/>
         <meta content="Brief History of Anarchism in Bolivia, A" name="calibre:title_sort"/>
     </metadata>
     <guide>

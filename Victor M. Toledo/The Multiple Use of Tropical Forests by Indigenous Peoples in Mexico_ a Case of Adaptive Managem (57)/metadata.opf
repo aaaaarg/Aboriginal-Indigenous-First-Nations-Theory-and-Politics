@@ -2,14 +2,14 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">57</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">47bc1e18-5755-4a1d-874d-ad186b9b5671</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2ae19883-6a45-4c0a-8a4c-486078e7ab73</dc:identifier>
         <dc:title>The Multiple Use of Tropical Forests by Indigenous Peoples in Mexico: a Case of Adaptive Management</dc:title>
         <dc:creator opf:file-as="Toledo, Víctor M." opf:role="aut">Víctor M. Toledo</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
         <meta content="{&quot;Víctor M. Toledo&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2015-12-27T14:18:00.351346+00:00" name="calibre:timestamp"/>
+        <meta content="2015-12-27T15:31:22.372739+00:00" name="calibre:timestamp"/>
         <meta content="Multiple Use of Tropical Forests by Indigenous Peoples in Mexico: a Case of Adaptive Management, The" name="calibre:title_sort"/>
     </metadata>
     <guide>

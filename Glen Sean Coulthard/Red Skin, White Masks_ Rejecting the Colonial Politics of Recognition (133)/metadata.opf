@@ -2,15 +2,15 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">133</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">8fdf330f-a458-4b5c-89ed-55c4507abe2b</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9c40bc74-ac4e-4eee-9614-d6846d1bec53</dc:identifier>
         <dc:title>Red Skin, White Masks: Rejecting the Colonial Politics of Recognition</dc:title>
         <dc:creator opf:file-as="Coulthard, Glen Sean &amp; Alfred, Taiaiake" opf:role="aut">Glen Sean Coulthard</dc:creator>
         <dc:creator opf:file-as="Coulthard, Glen Sean &amp; Alfred, Taiaiake" opf:role="aut">Taiaiake Alfred</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
-        <meta content="{&quot;Glen Sean Coulthard&quot;: &quot;&quot;, &quot;Taiaiake Alfred&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2015-12-27T14:22:22.907091+00:00" name="calibre:timestamp"/>
+        <meta content="{&quot;Taiaiake Alfred&quot;: &quot;&quot;, &quot;Glen Sean Coulthard&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-12-27T15:35:41.834663+00:00" name="calibre:timestamp"/>
         <meta content="Red Skin, White Masks: Rejecting the Colonial Politics of Recognition" name="calibre:title_sort"/>
     </metadata>
     <guide>

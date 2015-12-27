@@ -2,14 +2,14 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">91</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">8e49ce1d-51c4-42b1-baf0-1614fcf5f172</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ea05512d-b8bb-42a5-9151-0812a0bfc8af</dc:identifier>
         <dc:title>Custer Died for Your Sins: An Indian Manifesto</dc:title>
         <dc:creator opf:file-as="Deloria, Vine Jr." opf:role="aut">Vine Deloria Jr.</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
         <meta content="{&quot;Vine Deloria Jr.&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2015-12-27T14:19:57.920900+00:00" name="calibre:timestamp"/>
+        <meta content="2015-12-27T15:33:19.413225+00:00" name="calibre:timestamp"/>
         <meta content="Custer Died for Your Sins: An Indian Manifesto" name="calibre:title_sort"/>
     </metadata>
     <guide>

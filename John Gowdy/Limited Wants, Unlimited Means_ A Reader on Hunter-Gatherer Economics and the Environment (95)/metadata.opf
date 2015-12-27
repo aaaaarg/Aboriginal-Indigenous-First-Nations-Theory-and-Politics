@@ -2,14 +2,14 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">95</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">28747c69-f728-441e-8de3-998d6edc9064</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9153a403-42f3-4c35-b6fb-6c42c32946f7</dc:identifier>
         <dc:title>Limited Wants, Unlimited Means: A Reader on Hunter-Gatherer Economics and the Environment</dc:title>
         <dc:creator opf:file-as="Gowdy, John" opf:role="aut">John Gowdy</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
         <meta content="{&quot;John Gowdy&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2015-12-27T14:20:11.502677+00:00" name="calibre:timestamp"/>
+        <meta content="2015-12-27T15:33:32.929496+00:00" name="calibre:timestamp"/>
         <meta content="Limited Wants, Unlimited Means: A Reader on Hunter-Gatherer Economics and the Environment" name="calibre:title_sort"/>
     </metadata>
     <guide>

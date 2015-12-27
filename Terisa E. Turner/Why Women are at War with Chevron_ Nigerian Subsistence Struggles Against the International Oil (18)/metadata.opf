@@ -2,7 +2,7 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">18</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">7ca2b3d8-56f5-4dc4-a93f-8ab9791898d0</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">893f4425-9997-4a79-b083-71d93c363a55</dc:identifier>
         <dc:title>Why Women are at War with Chevron: Nigerian Subsistence Struggles Against the International Oil Industry</dc:title>
         <dc:creator opf:file-as="Turner, Terisa E. &amp; Brownhill, Leigh S." opf:role="aut">Terisa E. Turner</dc:creator>
         <dc:creator opf:file-as="Turner, Terisa E. &amp; Brownhill, Leigh S." opf:role="aut">Leigh S. Brownhill</dc:creator>
@@ -10,7 +10,7 @@
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
         <meta content="{&quot;Terisa E. Turner&quot;: &quot;&quot;, &quot;Leigh S. Brownhill&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2015-12-27T14:15:45.283323+00:00" name="calibre:timestamp"/>
+        <meta content="2015-12-27T15:29:09.723871+00:00" name="calibre:timestamp"/>
         <meta content="Why Women are at War with Chevron: Nigerian Subsistence Struggles Against the International Oil Industry" name="calibre:title_sort"/>
     </metadata>
     <guide>

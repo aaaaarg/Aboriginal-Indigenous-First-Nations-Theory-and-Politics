@@ -2,14 +2,14 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">121</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">5ef14853-93c3-47ca-a25d-5c56878a4989</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1fea1e57-4ced-46b8-a52b-a5dc9d306b04</dc:identifier>
         <dc:title>Aloha Betrayed: Native Hawaiian Resistance to American Colonialism</dc:title>
         <dc:creator opf:file-as="Silva, Noenoe K." opf:role="aut">Noenoe K. Silva</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
         <meta content="{&quot;Noenoe K. Silva&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2015-12-27T14:21:41.375190+00:00" name="calibre:timestamp"/>
+        <meta content="2015-12-27T15:35:01.152223+00:00" name="calibre:timestamp"/>
         <meta content="Aloha Betrayed: Native Hawaiian Resistance to American Colonialism" name="calibre:title_sort"/>
     </metadata>
     <guide>

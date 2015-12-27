@@ -2,7 +2,7 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">80</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">da9a0443-1fbb-4900-b748-a812a36cbea6</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d3ce8b1a-d378-4ed5-89a4-184f807fc297</dc:identifier>
         <dc:title>The Post-Development Reader</dc:title>
         <dc:creator opf:file-as="Rahnema, Majid &amp; Bawtree, Victoria" opf:role="aut">Majid Rahnema</dc:creator>
         <dc:creator opf:file-as="Rahnema, Majid &amp; Bawtree, Victoria" opf:role="aut">Victoria Bawtree</dc:creator>
@@ -10,7 +10,7 @@
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
         <meta content="{&quot;Majid Rahnema&quot;: &quot;&quot;, &quot;Victoria Bawtree&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2015-12-27T14:19:19.914834+00:00" name="calibre:timestamp"/>
+        <meta content="2015-12-27T15:32:41.068324+00:00" name="calibre:timestamp"/>
         <meta content="Post-Development Reader, The" name="calibre:title_sort"/>
     </metadata>
     <guide>

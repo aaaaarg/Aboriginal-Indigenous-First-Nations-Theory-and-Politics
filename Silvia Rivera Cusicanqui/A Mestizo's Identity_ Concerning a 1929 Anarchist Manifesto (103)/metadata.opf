@@ -2,7 +2,7 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">103</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">972c6891-d418-41b9-bb8e-e62649de52c7</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e8f96d39-ac33-4d1c-ae36-a109b34dc8a3</dc:identifier>
         <dc:title>A Mestizo's Identity: Concerning a 1929 Anarchist Manifesto</dc:title>
         <dc:creator opf:file-as="Cusicanqui, Silvia Rivera &amp; Acosta, Alejandro de" opf:role="aut">Silvia Rivera Cusicanqui</dc:creator>
         <dc:creator opf:file-as="Cusicanqui, Silvia Rivera &amp; Acosta, Alejandro de" opf:role="aut">Alejandro de Acosta</dc:creator>
@@ -10,7 +10,7 @@
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
         <meta content="{&quot;Silvia Rivera Cusicanqui&quot;: &quot;&quot;, &quot;Alejandro de Acosta&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2015-12-27T14:20:39.075964+00:00" name="calibre:timestamp"/>
+        <meta content="2015-12-27T15:33:59.955676+00:00" name="calibre:timestamp"/>
         <meta content="Mestizo's Identity: Concerning a 1929 Anarchist Manifesto, A" name="calibre:title_sort"/>
     </metadata>
     <guide>

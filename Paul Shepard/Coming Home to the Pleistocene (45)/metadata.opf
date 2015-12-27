@@ -2,14 +2,14 @@
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">45</dc:identifier>
-        <dc:identifier opf:scheme="uuid" id="uuid_id">0668866c-c775-43f8-b61a-4ada1c4e574e</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eaac9c38-c3bb-44a5-9486-bec1be3855f8</dc:identifier>
         <dc:title>Coming Home to the Pleistocene</dc:title>
         <dc:creator opf:file-as="Shepard, Paul" opf:role="aut">Paul Shepard</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
         <dc:date>0101-01-01T00:00:00+00:00</dc:date>
         <dc:language>en</dc:language>
         <meta content="{&quot;Paul Shepard&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
-        <meta content="2015-12-27T14:17:19.162027+00:00" name="calibre:timestamp"/>
+        <meta content="2015-12-27T15:30:41.572735+00:00" name="calibre:timestamp"/>
         <meta content="Coming Home to the Pleistocene" name="calibre:title_sort"/>
     </metadata>
     <guide>
