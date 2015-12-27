@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">127</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fbd5c5b2-7e1f-487a-80c4-6bfddea97f40</dc:identifier>
+        <dc:title>The Aggressions of Civilization: Federal Indian Policy Since the 1880s</dc:title>
+        <dc:creator opf:file-as="Cadwalader, Sandra L. &amp; Deloria, Vine Jr. &amp; Strausfeld, David M. &amp; Washburn, Wilcomb E. &amp; Officer, James E. &amp; Hauptman, Laurence M. &amp; Ziontz, Alvin J. &amp; Coulter, Robert T. &amp; Tullberg, Steven M. &amp; Estin, Ann Laquer" opf:role="aut">Sandra L. Cadwalader</dc:creator>
+        <dc:creator opf:file-as="Cadwalader, Sandra L. &amp; Deloria, Vine Jr. &amp; Strausfeld, David M. &amp; Washburn, Wilcomb E. &amp; Officer, James E. &amp; Hauptman, Laurence M. &amp; Ziontz, Alvin J. &amp; Coulter, Robert T. &amp; Tullberg, Steven M. &amp; Estin, Ann Laquer" opf:role="aut">Vine Deloria Jr.</dc:creator>
+        <dc:creator opf:file-as="Cadwalader, Sandra L. &amp; Deloria, Vine Jr. &amp; Strausfeld, David M. &amp; Washburn, Wilcomb E. &amp; Officer, James E. &amp; Hauptman, Laurence M. &amp; Ziontz, Alvin J. &amp; Coulter, Robert T. &amp; Tullberg, Steven M. &amp; Estin, Ann Laquer" opf:role="aut">David M. Strausfeld</dc:creator>
+        <dc:creator opf:file-as="Cadwalader, Sandra L. &amp; Deloria, Vine Jr. &amp; Strausfeld, David M. &amp; Washburn, Wilcomb E. &amp; Officer, James E. &amp; Hauptman, Laurence M. &amp; Ziontz, Alvin J. &amp; Coulter, Robert T. &amp; Tullberg, Steven M. &amp; Estin, Ann Laquer" opf:role="aut">Wilcomb E. Washburn</dc:creator>
+        <dc:creator opf:file-as="Cadwalader, Sandra L. &amp; Deloria, Vine Jr. &amp; Strausfeld, David M. &amp; Washburn, Wilcomb E. &amp; Officer, James E. &amp; Hauptman, Laurence M. &amp; Ziontz, Alvin J. &amp; Coulter, Robert T. &amp; Tullberg, Steven M. &amp; Estin, Ann Laquer" opf:role="aut">James E. Officer</dc:creator>
+        <dc:creator opf:file-as="Cadwalader, Sandra L. &amp; Deloria, Vine Jr. &amp; Strausfeld, David M. &amp; Washburn, Wilcomb E. &amp; Officer, James E. &amp; Hauptman, Laurence M. &amp; Ziontz, Alvin J. &amp; Coulter, Robert T. &amp; Tullberg, Steven M. &amp; Estin, Ann Laquer" opf:role="aut">Laurence M. Hauptman</dc:creator>
+        <dc:creator opf:file-as="Cadwalader, Sandra L. &amp; Deloria, Vine Jr. &amp; Strausfeld, David M. &amp; Washburn, Wilcomb E. &amp; Officer, James E. &amp; Hauptman, Laurence M. &amp; Ziontz, Alvin J. &amp; Coulter, Robert T. &amp; Tullberg, Steven M. &amp; Estin, Ann Laquer" opf:role="aut">Alvin J. Ziontz</dc:creator>
+        <dc:creator opf:file-as="Cadwalader, Sandra L. &amp; Deloria, Vine Jr. &amp; Strausfeld, David M. &amp; Washburn, Wilcomb E. &amp; Officer, James E. &amp; Hauptman, Laurence M. &amp; Ziontz, Alvin J. &amp; Coulter, Robert T. &amp; Tullberg, Steven M. &amp; Estin, Ann Laquer" opf:role="aut">Robert T. Coulter</dc:creator>
+        <dc:creator opf:file-as="Cadwalader, Sandra L. &amp; Deloria, Vine Jr. &amp; Strausfeld, David M. &amp; Washburn, Wilcomb E. &amp; Officer, James E. &amp; Hauptman, Laurence M. &amp; Ziontz, Alvin J. &amp; Coulter, Robert T. &amp; Tullberg, Steven M. &amp; Estin, Ann Laquer" opf:role="aut">Steven M. Tullberg</dc:creator>
+        <dc:creator opf:file-as="Cadwalader, Sandra L. &amp; Deloria, Vine Jr. &amp; Strausfeld, David M. &amp; Washburn, Wilcomb E. &amp; Officer, James E. &amp; Hauptman, Laurence M. &amp; Ziontz, Alvin J. &amp; Coulter, Robert T. &amp; Tullberg, Steven M. &amp; Estin, Ann Laquer" opf:role="aut">Ann Laquer Estin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Robert T. Coulter&quot;: &quot;&quot;, &quot;Ann Laquer Estin&quot;: &quot;&quot;, &quot;Vine Deloria Jr.&quot;: &quot;&quot;, &quot;Sandra L. Cadwalader&quot;: &quot;&quot;, &quot;David M. Strausfeld&quot;: &quot;&quot;, &quot;Alvin J. Ziontz&quot;: &quot;&quot;, &quot;Laurence M. Hauptman&quot;: &quot;&quot;, &quot;Wilcomb E. Washburn&quot;: &quot;&quot;, &quot;Steven M. Tullberg&quot;: &quot;&quot;, &quot;James E. Officer&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-12-27T14:22:02.165680+00:00" name="calibre:timestamp"/>
+        <meta content="Aggressions of Civilization: Federal Indian Policy Since the 1880s, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

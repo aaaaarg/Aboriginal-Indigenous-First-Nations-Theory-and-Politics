@@ -1,0 +1,17 @@
+<package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="uuid_id" version="2.0" xmlns="http://www.idpf.org/2007/opf">
+  <metadata>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">Unknown</dc:identifier>
+    <dc:title>How Shall I Live My Life: On Liberating the Earth from Civilization</dc:title>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Derrick Jensen </dc:creator>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">David Edwards </dc:creator>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Thomas Berry </dc:creator>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Jan Lundberg </dc:creator>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Steven Wise </dc:creator>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">George Draffan </dc:creator>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Carolyn Raffensperge </dc:creator>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Kathleen Dean Moore </dc:creator>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">David Abram </dc:creator>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Vine Deloria Jr.</dc:creator>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Jesse Wolf Hardin </dc:creator>
+  </metadata>
+</package>

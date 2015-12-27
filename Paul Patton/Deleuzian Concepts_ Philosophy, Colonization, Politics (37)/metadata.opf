@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2836847e-aef2-4a13-9ce7-e7ac8207b568</dc:identifier>
+        <dc:title>Deleuzian Concepts: Philosophy, Colonization, Politics</dc:title>
+        <dc:creator opf:file-as="Patton, Paul" opf:role="aut">Paul Patton</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Paul Patton&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-12-27T14:16:51.735048+00:00" name="calibre:timestamp"/>
+        <meta content="Deleuzian Concepts: Philosophy, Colonization, Politics" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

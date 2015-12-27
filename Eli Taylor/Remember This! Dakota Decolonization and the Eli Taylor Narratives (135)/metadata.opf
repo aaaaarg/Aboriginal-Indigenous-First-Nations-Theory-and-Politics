@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">135</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">030b1ff9-2001-4e6d-a3ad-cf54b116450f</dc:identifier>
+        <dc:title>Remember This! Dakota Decolonization and the Eli Taylor Narratives</dc:title>
+        <dc:creator opf:file-as="Taylor, Eli &amp; Wilson, Waziyatawin Angela &amp; Schommer, Wahpetunwin Carolyn &amp; Waziyatawin" opf:role="aut">Eli Taylor</dc:creator>
+        <dc:creator opf:file-as="Taylor, Eli &amp; Wilson, Waziyatawin Angela &amp; Schommer, Wahpetunwin Carolyn &amp; Waziyatawin" opf:role="aut">Waziyatawin Angela Wilson</dc:creator>
+        <dc:creator opf:file-as="Taylor, Eli &amp; Wilson, Waziyatawin Angela &amp; Schommer, Wahpetunwin Carolyn &amp; Waziyatawin" opf:role="aut">Wahpetunwin Carolyn Schommer</dc:creator>
+        <dc:creator opf:file-as="Taylor, Eli &amp; Wilson, Waziyatawin Angela &amp; Schommer, Wahpetunwin Carolyn &amp; Waziyatawin" opf:role="aut">Waziyatawin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Eli Taylor&quot;: &quot;&quot;, &quot;Waziyatawin&quot;: &quot;&quot;, &quot;Wahpetunwin Carolyn Schommer&quot;: &quot;&quot;, &quot;Waziyatawin Angela Wilson&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-12-27T14:22:32.989527+00:00" name="calibre:timestamp"/>
+        <meta content="Remember This! Dakota Decolonization and the Eli Taylor Narratives" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

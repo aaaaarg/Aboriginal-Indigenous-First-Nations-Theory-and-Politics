@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">91252a6b-1e03-4951-9ade-dcde8ff4d23a</dc:identifier>
+        <dc:title>The Kurdish Struggle for Recognition in Turkey Towards an Expanded Model of Recognition</dc:title>
+        <dc:creator opf:file-as="Garfield, Samuel Holden" opf:role="aut">Samuel Holden Garfield</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Samuel Holden Garfield&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-12-27T14:15:48.720712+00:00" name="calibre:timestamp"/>
+        <meta content="Kurdish Struggle for Recognition in Turkey Towards an Expanded Model of Recognition, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

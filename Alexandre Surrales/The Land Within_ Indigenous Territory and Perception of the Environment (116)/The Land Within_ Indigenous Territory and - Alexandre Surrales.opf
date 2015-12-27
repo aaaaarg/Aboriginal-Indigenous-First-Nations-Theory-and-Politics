@@ -1,0 +1,8 @@
+<package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="uuid_id" version="2.0" xmlns="http://www.idpf.org/2007/opf">
+  <metadata>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">Unknown</dc:identifier>
+    <dc:title>The Land Within: Indigenous Territory and Perception of the Environment</dc:title>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Alexandre Surrales </dc:creator>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Pedro Garcia Hierro </dc:creator>
+  </metadata>
+</package>

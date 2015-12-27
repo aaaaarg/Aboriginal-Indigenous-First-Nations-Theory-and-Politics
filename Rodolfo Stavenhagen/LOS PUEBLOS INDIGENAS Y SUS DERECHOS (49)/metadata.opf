@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">999c2dbd-bd4a-4244-ad6e-fa2653e0cc2c</dc:identifier>
+        <dc:title>LOS PUEBLOS INDÍGENAS Y SUS DERECHOS</dc:title>
+        <dc:creator opf:file-as="Stavenhagen, Rodolfo" opf:role="aut">Rodolfo Stavenhagen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Rodolfo Stavenhagen&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-12-27T14:17:32.787356+00:00" name="calibre:timestamp"/>
+        <meta content="LOS PUEBLOS INDÍGENAS Y SUS DERECHOS" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

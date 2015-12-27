@@ -1,0 +1,17 @@
+<package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="uuid_id" version="2.0" xmlns="http://www.idpf.org/2007/opf">
+  <metadata>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">Unknown</dc:identifier>
+    <dc:title>Marxism and Native Americans</dc:title>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Ward Churchill </dc:creator>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Winona LaDuke </dc:creator>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Russell Means </dc:creator>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Revolutionary Communist Party </dc:creator>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Dora-Lee Larson </dc:creator>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Elisabeth Lloyd </dc:creator>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Robert B. Sipe </dc:creator>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Vine Deloria Jr.</dc:creator>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Frank Black Elk </dc:creator>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">William Tabb </dc:creator>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Phil Heiple </dc:creator>
+  </metadata>
+</package>

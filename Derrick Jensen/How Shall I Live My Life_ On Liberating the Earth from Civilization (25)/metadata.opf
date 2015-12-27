@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8d9576b9-5ffe-4f25-a72b-b64e6dc6b7b0</dc:identifier>
+        <dc:title>How Shall I Live My Life: On Liberating the Earth from Civilization</dc:title>
+        <dc:creator opf:file-as="Jensen, Derrick &amp; Edwards, David &amp; Berry, Thomas &amp; Lundberg, Jan &amp; Wise, Steven &amp; Draffan, George &amp; Raffensperge, Carolyn &amp; Moore, Kathleen Dean &amp; Abram, David &amp; Deloria, Vine Jr. &amp; Hardin, Jesse Wolf" opf:role="aut">Derrick Jensen</dc:creator>
+        <dc:creator opf:file-as="Jensen, Derrick &amp; Edwards, David &amp; Berry, Thomas &amp; Lundberg, Jan &amp; Wise, Steven &amp; Draffan, George &amp; Raffensperge, Carolyn &amp; Moore, Kathleen Dean &amp; Abram, David &amp; Deloria, Vine Jr. &amp; Hardin, Jesse Wolf" opf:role="aut">David Edwards</dc:creator>
+        <dc:creator opf:file-as="Jensen, Derrick &amp; Edwards, David &amp; Berry, Thomas &amp; Lundberg, Jan &amp; Wise, Steven &amp; Draffan, George &amp; Raffensperge, Carolyn &amp; Moore, Kathleen Dean &amp; Abram, David &amp; Deloria, Vine Jr. &amp; Hardin, Jesse Wolf" opf:role="aut">Thomas Berry</dc:creator>
+        <dc:creator opf:file-as="Jensen, Derrick &amp; Edwards, David &amp; Berry, Thomas &amp; Lundberg, Jan &amp; Wise, Steven &amp; Draffan, George &amp; Raffensperge, Carolyn &amp; Moore, Kathleen Dean &amp; Abram, David &amp; Deloria, Vine Jr. &amp; Hardin, Jesse Wolf" opf:role="aut">Jan Lundberg</dc:creator>
+        <dc:creator opf:file-as="Jensen, Derrick &amp; Edwards, David &amp; Berry, Thomas &amp; Lundberg, Jan &amp; Wise, Steven &amp; Draffan, George &amp; Raffensperge, Carolyn &amp; Moore, Kathleen Dean &amp; Abram, David &amp; Deloria, Vine Jr. &amp; Hardin, Jesse Wolf" opf:role="aut">Steven Wise</dc:creator>
+        <dc:creator opf:file-as="Jensen, Derrick &amp; Edwards, David &amp; Berry, Thomas &amp; Lundberg, Jan &amp; Wise, Steven &amp; Draffan, George &amp; Raffensperge, Carolyn &amp; Moore, Kathleen Dean &amp; Abram, David &amp; Deloria, Vine Jr. &amp; Hardin, Jesse Wolf" opf:role="aut">George Draffan</dc:creator>
+        <dc:creator opf:file-as="Jensen, Derrick &amp; Edwards, David &amp; Berry, Thomas &amp; Lundberg, Jan &amp; Wise, Steven &amp; Draffan, George &amp; Raffensperge, Carolyn &amp; Moore, Kathleen Dean &amp; Abram, David &amp; Deloria, Vine Jr. &amp; Hardin, Jesse Wolf" opf:role="aut">Carolyn Raffensperge</dc:creator>
+        <dc:creator opf:file-as="Jensen, Derrick &amp; Edwards, David &amp; Berry, Thomas &amp; Lundberg, Jan &amp; Wise, Steven &amp; Draffan, George &amp; Raffensperge, Carolyn &amp; Moore, Kathleen Dean &amp; Abram, David &amp; Deloria, Vine Jr. &amp; Hardin, Jesse Wolf" opf:role="aut">Kathleen Dean Moore</dc:creator>
+        <dc:creator opf:file-as="Jensen, Derrick &amp; Edwards, David &amp; Berry, Thomas &amp; Lundberg, Jan &amp; Wise, Steven &amp; Draffan, George &amp; Raffensperge, Carolyn &amp; Moore, Kathleen Dean &amp; Abram, David &amp; Deloria, Vine Jr. &amp; Hardin, Jesse Wolf" opf:role="aut">David Abram</dc:creator>
+        <dc:creator opf:file-as="Jensen, Derrick &amp; Edwards, David &amp; Berry, Thomas &amp; Lundberg, Jan &amp; Wise, Steven &amp; Draffan, George &amp; Raffensperge, Carolyn &amp; Moore, Kathleen Dean &amp; Abram, David &amp; Deloria, Vine Jr. &amp; Hardin, Jesse Wolf" opf:role="aut">Vine Deloria Jr.</dc:creator>
+        <dc:creator opf:file-as="Jensen, Derrick &amp; Edwards, David &amp; Berry, Thomas &amp; Lundberg, Jan &amp; Wise, Steven &amp; Draffan, George &amp; Raffensperge, Carolyn &amp; Moore, Kathleen Dean &amp; Abram, David &amp; Deloria, Vine Jr. &amp; Hardin, Jesse Wolf" opf:role="aut">Jesse Wolf Hardin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;David Edwards&quot;: &quot;&quot;, &quot;George Draffan&quot;: &quot;&quot;, &quot;Carolyn Raffensperge&quot;: &quot;&quot;, &quot;Steven Wise&quot;: &quot;&quot;, &quot;Jesse Wolf Hardin&quot;: &quot;&quot;, &quot;Kathleen Dean Moore&quot;: &quot;&quot;, &quot;Thomas Berry&quot;: &quot;&quot;, &quot;Derrick Jensen&quot;: &quot;&quot;, &quot;David Abram&quot;: &quot;&quot;, &quot;Vine Deloria Jr.&quot;: &quot;&quot;, &quot;Jan Lundberg&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-12-27T14:16:09.458754+00:00" name="calibre:timestamp"/>
+        <meta content="How Shall I Live My Life: On Liberating the Earth from Civilization" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

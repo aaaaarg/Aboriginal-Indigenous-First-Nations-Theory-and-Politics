@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">123</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">51850b3b-59cf-40db-8b37-44a404449dd2</dc:identifier>
+        <dc:title>Fools Crow: Wisdom and Power</dc:title>
+        <dc:creator opf:file-as="Mails, Thomas E. &amp; Means, Russell" opf:role="aut">Thomas E. Mails</dc:creator>
+        <dc:creator opf:file-as="Mails, Thomas E. &amp; Means, Russell" opf:role="aut">Russell Means</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Russell Means&quot;: &quot;&quot;, &quot;Thomas E. Mails&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-12-27T14:21:48.258875+00:00" name="calibre:timestamp"/>
+        <meta content="Fools Crow: Wisdom and Power" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

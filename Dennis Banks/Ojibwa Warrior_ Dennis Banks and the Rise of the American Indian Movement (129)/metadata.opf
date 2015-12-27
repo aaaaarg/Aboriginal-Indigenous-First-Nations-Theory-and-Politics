@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">129</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">984603fe-7810-4f7d-8d43-9078281f891c</dc:identifier>
+        <dc:title>Ojibwa Warrior: Dennis Banks and the Rise of the American Indian Movement</dc:title>
+        <dc:creator opf:file-as="Banks, Dennis &amp; Erdoes, Richard" opf:role="aut">Dennis Banks</dc:creator>
+        <dc:creator opf:file-as="Banks, Dennis &amp; Erdoes, Richard" opf:role="aut">Richard Erdoes</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Richard Erdoes&quot;: &quot;&quot;, &quot;Dennis Banks&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-12-27T14:22:09.135086+00:00" name="calibre:timestamp"/>
+        <meta content="Ojibwa Warrior: Dennis Banks and the Rise of the American Indian Movement" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

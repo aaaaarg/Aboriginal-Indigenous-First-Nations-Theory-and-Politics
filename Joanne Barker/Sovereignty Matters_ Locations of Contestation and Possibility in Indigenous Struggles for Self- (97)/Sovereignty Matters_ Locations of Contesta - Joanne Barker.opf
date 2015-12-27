@@ -1,0 +1,19 @@
+<package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="uuid_id" version="2.0" xmlns="http://www.idpf.org/2007/opf">
+  <metadata>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">Unknown</dc:identifier>
+    <dc:title>Sovereignty Matters: Locations of Contestation and Possibility in Indigenous Struggles for Self-Determination</dc:title>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Joanne Barker </dc:creator>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Taiaiake Alfred </dc:creator>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Déborah Berman Santana </dc:creator>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Leonie Pihama </dc:creator>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Michael P. Perez </dc:creator>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Kilipaka Kawaihonu Nahili Pae Ontai </dc:creator>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Robert J. Miller </dc:creator>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Dan Taulapapa McMullin </dc:creator>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">J. Kehaulani Kauanui </dc:creator>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Guillermo Delgado-P. </dc:creator>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">John Brown Childs </dc:creator>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Fiona Cram </dc:creator>
+    <dc:creator opf:file-as="Unknown" opf:role="aut"> </dc:creator>
+  </metadata>
+</package>

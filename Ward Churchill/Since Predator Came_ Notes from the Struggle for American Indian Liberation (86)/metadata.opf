@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">86</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">caa69c09-423d-4a3e-8275-233f61443adc</dc:identifier>
+        <dc:title>Since Predator Came: Notes from the Struggle for American Indian Liberation</dc:title>
+        <dc:creator opf:file-as="Churchill, Ward &amp; Trask, Haunani-Kay &amp; Brutus, Dennis" opf:role="aut">Ward Churchill</dc:creator>
+        <dc:creator opf:file-as="Churchill, Ward &amp; Trask, Haunani-Kay &amp; Brutus, Dennis" opf:role="aut">Haunani-Kay Trask</dc:creator>
+        <dc:creator opf:file-as="Churchill, Ward &amp; Trask, Haunani-Kay &amp; Brutus, Dennis" opf:role="aut">Dennis Brutus</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.47.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+        <meta content="{&quot;Haunani-Kay Trask&quot;: &quot;&quot;, &quot;Dennis Brutus&quot;: &quot;&quot;, &quot;Ward Churchill&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-12-27T14:19:40.773143+00:00" name="calibre:timestamp"/>
+        <meta content="Since Predator Came: Notes from the Struggle for American Indian Liberation" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

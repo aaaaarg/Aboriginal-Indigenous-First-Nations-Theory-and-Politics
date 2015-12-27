@@ -1,0 +1,21 @@
+<package xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" unique-identifier="uuid_id" version="2.0" xmlns="http://www.idpf.org/2007/opf">
+  <metadata>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">Unknown</dc:identifier>
+    <dc:title>Deleuze and Space (Deleuze Connections)</dc:title>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Ian Buchanan </dc:creator>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Gregg Lambert </dc:creator>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Paul A. Harris </dc:creator>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Helene Frichot </dc:creator>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Manuel DeLanda </dc:creator>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">J. D. Dewsbury </dc:creator>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Nigel Thrift </dc:creator>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Gary Genosko </dc:creator>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Adam Bryx </dc:creator>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Branka Arsic </dc:creator>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Reda Bensmaia </dc:creator>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Tamsin Lorraine </dc:creator>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Gregory Flaxman </dc:creator>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Claire Colebrook </dc:creator>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Tom Conley </dc:creator>
+  </metadata>
+</package>
